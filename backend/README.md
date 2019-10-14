@@ -1,8 +1,17 @@
+#####
+# ALREADY DONE - NO ACTION ITEM
+#####
+.
+
+.
+
+.
+
+.
+
 # SAP Backend IDOC Configuration
 
 Example IDOC 'DEBMAS' (= customer / business partner master data)
-
-<font color="red"># ALREADY DONE - NO ACTION ITEM</font>
 
 ## sale - Create logical system (LOGSYS)
 
