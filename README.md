@@ -36,7 +36,7 @@ Make also sure to select an approriate role, see screenshot below:
 
 Modify the function details, by selecting the parent node and perform the following changes:
 
-![image](assets/Lambda_Management_Console1.jpg)
+<img src="assets/Lambda_Management_Console1.jpg" width="300" >
 
 Now you are ready to test your function via the "TEST" button. Just create some test data and press "TEST".
 
