@@ -72,7 +72,7 @@ Click the URL to trigger a GET request via your browser.
 
 Try to find the corresponding cloudwatch logs output of your function:
 
-![image](assets/Cloudwatch_Management_Console.jpg)
+![image](assets/CloudWatch_Management_Console.jpg)
 
 ## Step 4 - IDOC configuration in SAP (DEBMAS)
 
