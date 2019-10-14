@@ -2,6 +2,8 @@
 
 Example IDOC 'DEBMAS' (= customer / business partner master data)
 
+# ALREADY DONE - NO ACTION ITEM
+
 ## sale - Create logical system (LOGSYS)
 
 TCODE sale > Basic Settings > Logical Systems > Define Logical System
