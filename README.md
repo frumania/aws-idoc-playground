@@ -78,15 +78,15 @@ Try to find the corresponding cloudwatch logs output of your function:
 
 In SAPGUI go to transaction **sm59** and input the API gateway url and path.
 
-<img src="assets/sm59.jpg" width="600" >
+<img src="assets/sm59.jpg" width="900" >
 
 Make also sure to activate SSL:
 
-<img src="assets/cert.jpg" width="600" >
+<img src="assets/cert.jpg" width="900" >
 
 Test your connection:
 
-<img src="assets/sm59-test.jpg" width="300" >
+<img src="assets/sm59-test.jpg" width="600" >
 
 ## Step 5 - Create a new customer in SAP and send to AWS
 
@@ -94,7 +94,7 @@ You should now be able to send an IDOC to your destination:
 
 TCODE bp - Create a new customer
 
-<img src="assets/bp.png" width="600" >
+<img src="assets/bp.png" width="900" >
 
 TCODE bd21 - sent DEBMAS IDOC
 
