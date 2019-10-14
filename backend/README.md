@@ -2,7 +2,7 @@
 
 Example IDOC 'DEBMAS' (= customer / business partner master data)
 
-# ALREADY DONE - NO ACTION ITEM
+<font color="red"># ALREADY DONE - NO ACTION ITEM</font>
 
 ## sale - Create logical system (LOGSYS)
 
