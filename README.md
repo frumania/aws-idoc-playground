@@ -108,7 +108,7 @@ In the AWS console, navigate to **AWS S3** and create a new bucket.
   
 **Note:** All settings can be kept default. Also make sure name is unique!!!
 
-<img src="assets/s3.jpg" width="600" >
+<img src="assets/s3.jpg" width="800" >
 
 ## Step 7 - Adjust Lambda to be able to store data in S3
 
