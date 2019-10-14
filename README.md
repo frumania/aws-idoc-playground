@@ -86,7 +86,7 @@ Make also sure to activate SSL:
 
 Test your connection:
 
-<img src="assets/sm59-test.jpg" width="600" >
+<img src="assets/sm59-test.jpg" width="300" >
 
 ## Step 5 - Create a new customer in SAP and send to AWS
 
@@ -98,7 +98,7 @@ TCODE bp - Create a new customer
 
 TCODE bd21 - sent DEBMAS IDOC
 
-<img src="assets/bd21.png" width="300" >
+<img src="assets/bd21.png" width="600" >
 
 Check the output in Cloudwatch Logs and IDOC Monitor **we02**!
 
