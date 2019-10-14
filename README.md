@@ -104,7 +104,8 @@ Check the output in Cloudwatch Logs and IDOC Monitor **we02**!
 
 ## Step 6 - Create S3 bucket
 
-In the AWS console, navigate to S3 and create a new bucket.
+In the AWS console, navigate to **AWS S3** and create a new bucket.
+  
 **Note:** All settings can be kept default. Also make sure name is unique!!!
 
 <img src="assets/s3.jpg" width="600" >
@@ -175,7 +176,9 @@ Further Info:
 
 ## Step 8 - Test
 
-Repeat step 5 and create some customer data
+Repeat step 5, create some customer data and check your logs as well as the S3 bucket.
+
+<img src="assets/s3-result.jpg" width="600" >
 
 ## Step 9 - Bonus
 
