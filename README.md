@@ -86,7 +86,7 @@ Make also sure to activate SSL:
 
 Test your connection:
 
-<img src="assets/sm59-test.jpg" width="300" >
+<img src="assets/sm59-test.jpg" width="600" >
 
 ## Step 5 - Create a new customer in SAP and send to AWS
 
