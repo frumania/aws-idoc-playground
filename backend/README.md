@@ -25,7 +25,7 @@ https://www.amazontrust.com/repository/
 
 Import into strust
 
-<img sec="https://d2908q01vomqb2.cloudfront.net/17ba0791499db908433b80f37c5fbc89b870084b/2019/07/02/figure-2-Trust-Manager.png" width="800">
+<img sec="../assets/strust.jpg" width="800">
 
 ## sm59 - Create HTTP(S) destination
 
