@@ -1,20 +1,26 @@
 # aws-idoc-playground
 
-This repository is meant as guided walkthrough to create interactions between **AWS S3** and **SAP**, via **AWS Lambda** and the retrieval of **IDOCS**.
+This repository is meant as guided walkthrough to integrate **SAP** and **AWS S3**, via **AWS Lambda** and the retrieval of **IDOCS**.
 
-This represents **one** simple possibiliity to interact with the SAP backend and process master or transactional data on the AWS platform (e.g. for Big Data / Data Lake, Machine Learning purposes).
+This represents **one** simple possibiliity to interact with an SAP backend and process master or transactional data on the AWS platform (e.g. for Big Data / Data Lake, Machine Learning purposes).
+
+As an example, customer data in SAP S/4HANA is shown ("DEBMAS").
 
 The benefits hereby are
 - Easy to setup and maintain
 - Scales on demand
 - Pay "per IDOC"
 
-Inspired by https://aws.amazon.com/de/blogs/awsforsap/sap-idoc-integration-with-amazon-s3-by-using-amazon-api-gateway/
+Inspired by 
+https://aws.amazon.com/de/blogs/awsforsap/sap-idoc-integration-with-amazon-s3-by-using-amazon-api-gateway/
+https://github.com/ApplexusLabs/aws-sap-idoc-tricks
 
 ## Prerequisites
 
 - AWS Account (Lambda, S3, API Gateway)
+- SAP ECC 6.0 or higher
 - SAPGUI System Access
+- Perform [SAP Backend Configuration](https://github.com/frumania/aws-idoc-playground/blob/master/backend/README.md) for IDOCS
 
 ## Target Architecture
 
@@ -192,8 +198,8 @@ var id = mymatch[1]+".xml";
 ```
 
 - Add X-Ray Monitoring to your function
+- Use AWS GLue to convert to json and browse via AWS Athena 
 - Add a Security Token to protect for any misuse
-- Aggregate XMLs via another Lambda function
 
 ## License
 
