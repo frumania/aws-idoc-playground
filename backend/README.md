@@ -25,7 +25,7 @@ https://www.amazontrust.com/repository/
 
 Import into strust
 
-<img sec="../assets/strust.jpg" width="800">
+<img src="../assets/strust.jpg" width="800">
 
 ## sm59 - Create HTTP(S) destination
 
