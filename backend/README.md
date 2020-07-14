@@ -57,3 +57,4 @@ TCODE bd64
 
 - we02 - IDOC Monitor
 - we19 - Create Test IDOC
+- bd12 - Initial Load (Batch) - see also https://blogs.sap.com/2017/03/24/replicating-customer-and-contact-person-from-sap-erp-to-sap-hybris-commerce/
